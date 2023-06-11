@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "Chana Masala",
+    "image": "🇮🇳 chana masala",
+    "from": "India",
+    "nutrients": "Protein, Fiber",
+    "quantity": "4 servings",
+    "price": "450.00",
+    "organic": true,
+    "description": "Chana masala is a popular Indian dish made with chickpeas, tomatoes, and spices. It is a hearty and flavorful dish that is perfect for a vegetarian or vegan meal. This recipe is easy to make and can be customized to your liking. You can add more or less spice, or use different types of vegetables. This dish is sure to become a family favorite."
+  },
+  {
+    "id": 1,
+    "productName": "Dal Makhani",
+    "image": "🇮🇳 dal makhani",
+    "from": "India",
+    "nutrients": "Protein, Fiber",
+    "quantity": "4 servings",
+    "price": "300.00",
+    "organic": true,
+    "description": "Dal makhani is a rich and creamy lentil curry that is popular in India. It is made with black lentils, tomatoes, and spices. This dish is hearty and flavorful, and it is perfect for a cold winter day. This recipe is easy to make and can be customized to your liking. You can add more or less spice, or use different types of vegetables. This dish is sure to become a family favorite."
+  },
+  {
+    "id": 2,
+    "productName": "Chicken Tikka Masala",
+    "image": "🇮🇳 chicken tikka masala",
+    "from": "UK",
+    "nutrients": "Protein, Iron",
+    "quantity": "4 servings",
+    "price": "399.00",
+    "organic": false,
+    "description": "Chicken tikka masala is a popular Indian dish that is made with marinated chicken chunks in a creamy tomato sauce. It is a hearty and flavorful dish that is perfect for a special occasion. This recipe is easy to make and can be customized to your liking. You can add more or less spice, or use different types of vegetables. This dish is sure to impress your guests."
+  },
+  {
+    "id": 3,
+    "productName": "Vegetable Biryani",
+    "image": "🇮🇳 vegetable biryani",
+    "from": "India",
+    "nutrients": "Protein, Fiber",
+    "quantity": "4 servings",
+    "price": "100.00",
+    "organic": true,
+    "description": "Vegetable biryani is a popular Indian dish that is made with rice, vegetables, and spices. It is a hearty and flavorful dish that is perfect for a vegetarian or vegan meal. This recipe is easy to make and can be customized to your liking. You can add different types of vegetables, or use different types of rice. This dish is sure to become a family favorite."
+  },
+  {
+    "id": 4,
+    "productName": "Naan",
+    "image": "🇮🇳 naan",
+    "from": "India",
+    "nutrients": "Carbohydrates, Protein",
+    "quantity": "10 pieces",
+    "price": "15.00",
+    "organic": false,
+    "description": "Naan is a type of flatbread that is popular in India. It is made with wheat flour, yogurt, and spices. Naan is typically served with curries and other Indian dishes. This recipe is easy to make and can be customized to your liking. You can add different types of spices, or use different types of flour. Naan is sure to become a family favorite."
+  }
+]

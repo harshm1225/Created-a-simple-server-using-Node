@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dish</title>
+    <style>
+      h4 {
+        display: inline-block;
+        margin: 0;
+      }
+
+      .card_detail {
+        padding: 0;
+        margin: 0;
+        margin: 3px;
+      }
+
+      .card {
+        background-color: silver;
+        padding: 10px;
+        margin: 10px;
+        border-radius: 10px;
+      }
+
+      a {
+        text-decoration: none;
+        color: #007bff;
+        font-size: 16px;
+        opacity: 1;
+        transition: opacity 0.3s ease;
+      }
+
+      a:hover {
+        opacity: 0.8;
+      }
+    </style>
+  </head>
+  <body>
+    <a href="/overview">Back</a>
+    <div class="card">
+      <h2>{%DISHNAME%}</h2>
+      <div class="card_detail">
+        <span>
+          <h4>From:</h4>
+          {%DISHORIGIN%}
+        </span>
+      </div>
+      <div class="card_detail">
+        <span>
+          <h4>Nutrients:</h4>
+          {%NUTRIENTS%}
+        </span>
+      </div>
+      <div class="card_detail">
+        <span>
+          <h4>Quantity:</h4>
+          {%QUANTITY%}
+        </span>
+      </div>
+      <div class="card_detail">
+        <span>
+          <h4>Price:</h4>
+          {%PRICE%}
+        </span>
+      </div>
+      <div class="card_detail">
+        <span>
+          <h4>Organic:</h4>
+          {%ISORGANIC%}
+        </span>
+      </div>
+      <div class="card_detail">
+        <h4>Description:</h4>
+        {%DESCRIPTION%}
+      </div>
+    </div>
+  </body>
+</html>
